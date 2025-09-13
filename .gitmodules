@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/RichyP48/gestion-de-note-backend_
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/RichyP48/Gestion-de-note
